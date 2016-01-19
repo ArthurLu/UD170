@@ -11,4 +11,19 @@ During this lesson, I have data about students of Data Analyst Nanodegree, and b
 * enrollments.csv
 * daily_engagement.csv
 * project_submissions.csv
-Detail is explained in the "table_description.txt"
+
+*Detail of data is explained in the "Lesson 1/table_description.txt"*
+
+*Solutions is written in "Lesson 1/Starter_code.ipynb"*
+
+## Lesson 2
+During this lesson, I have data about countries all over the world, and being asked following questions in order to practice Numpy and Pands. Data including:
+* employment_above_15.csv
+* female_completion_rate.csv
+* male_completion_rate.csv
+* gdp_per_capita.csv
+* gdp_per_capita.csv
+
+*Detail of data is explained in the "Lesson 2/table_description.txt"*
+
+*Solutions is written in "Lesson 2/Starter_code.ipynb"*
