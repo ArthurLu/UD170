@@ -27,3 +27,11 @@ During this lesson, I have data about countries all over the world, and being as
 *Detail of data is explained in the "Lesson 2/table_description.txt"*
 
 *Solutions is written in "Lesson 2/Starter_code.ipynb"*
+
+## Lesson 3
+During this lesson, I have data about subway and weather, and being asked following questions in order to get familiar with Numpy and Pands in 2D data. Data including:
+* nyc_subway_weather.csv
+
+*Detail of data is explained in the "Lesson 3/nyc_subway_weather_descriptions.txt"*
+
+*Solutions is written in "Lesson 3/Starter_code.ipynb"*
